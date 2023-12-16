@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+
+# Logs
+*.log
+
+# Directory for local compiled output
+dist/
+
+# System files
+.DS_Store

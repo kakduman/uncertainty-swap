@@ -1,0 +1,25 @@
+I feel a lot of anxiety around technology. It's becoming harder and harder to become an "expert" at everything and managing it. It's affecting my personal life and mental health somewhat.
+
+To give you a bit of background, my work is in data and everything from gathering requirements, data analysis to Windows Server management which hosts the software.
+
+Increasingly I feel like technology is accelerating and it's becoming hard to keep up.
+
+I work as a freelancer contractor so few things are happening:
+
+My expertise is providing a steady income, but I want to grow. This usually means I have to put myself on training courses and convince hirers that I can do the job. The problem is hiring managers now all want experience. Something has to give. And usually it means maybe taking a pay-cut to learn it on a contract (if I can phrase things properly to the hiring manager).
+
+My income isn't going up to cover for inflation. But when I look around for new roles, the pay in more senior positions isn't that high either.
+
+A lot of the training courses are vendor specific (Microsoft, AWS etc) and they are getting good at adding propaganda and marketing in their "learning" plans so a lot of time is wasted. It also feels like certifications are replacing common sense and transferrable skills. To me it feels like this is purposely developed by the vendors so it's an extra income stream for them.
+
+As I said in my point above, transferrable skills are not really valued it feels when I interview. Everybody wants a ready-made expert for peanuts pay/salary.
+
+It's great that there are so many learning help sources online, but right now I have 13 online courses to do and everything is a priority. I try to do things in order, one by one, but the problem is almost all of my personal time is going into it. Weekday evenings and weekends. Gone are the days when I had weekends free and I can relax.
+
+In my jobs I try to put aside 3-4hrs a week to try something new and deliver something practical using a new skill. E.g. I will do a bit of powershell to analyse some logs data, or try to do something in Python that replicates an Excel formula... the goal being get familiar with python coding mindset.
+
+...But it feels overwhelming or demoralising because when I interview the hiring manager will say they want an expert in a SQL, in data software (Qlik, Tableau etc), someone who is hot with Python, R, that can also do Windows Server management, talk the talk with business, and so on, throw in being an Agile expert or a Kanban master as well while we are at it.
+
+On top of that we have some Microsoft MVP contractor in our team that is influencing the manager to go Microsoft for everything and fire or let go of anyone that doesn't want to be on it. Subtly also implying don't invest in the staff and replace them with ready-made experts. The manager is buddies with this contractor and is influenced by him a lot.
+
+I worry about my job, mental health, and future given the stagnation in income as well as rising costs as well as trying to keep up with technology(ies).

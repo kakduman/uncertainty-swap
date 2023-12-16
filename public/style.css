@@ -1,0 +1,70 @@
+#introduction {
+    text-align: left; /* Align text to the left */
+    width: 60%; /* Match width with the submission boxes */
+    margin: 0 auto; /* Center the block */
+    padding: 20px; /* Add padding */
+    box-sizing: border-box; /* Include padding in the width calculation */
+}
+
+#introduction h1 {
+    margin-top: 0;
+}
+
+#introduction p {
+    line-height: 1.6; /* Improve readability */
+}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+#submission-area, #random-submission-area {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    width: 60%;
+}
+
+textarea {
+    width: 60%;
+    height: 100px;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+    font-family: 'Quicksand', sans-serif;
+}
+
+button {
+    display: block;
+    width: 50%;
+    padding: 10px 20px;
+    margin: 20px auto;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #22aaff;
+}
+
+#random-idea {
+    text-align: left;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #eee;
+    border-radius: 4px;
+    color: #333;
+}

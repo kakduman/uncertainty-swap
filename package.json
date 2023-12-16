@@ -1,0 +1,18 @@
+{
+  "name": "uncertainty-swap",
+  "version": "1.0.0",
+  "description": "a website to swap uncertainties",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon server/server.js"
+  },
+  "author": "Koray",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}

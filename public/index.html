@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Uncertainty Swap</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="introduction">
+        <h1>Uncertainty Swap: An Interactive Exhibit</h1>
+        <p>Welcome to Uncertainty Swap, an interactive exhibit where people can
+            share and swap experiences of uncertainty. This project is a journey 
+            into the complexities of decision-making in a world brimming with 
+            choices. Uncertainty is an exploration of indecision, magnified 
+            by the myriad of options presented by technology, pre-populated with
+            personal anecdotes, family and friend's stories, and online forum posts.
+            Uncertainty Swap is a space to share your
+            own remarks on uncertainty, and in return, gain insight from many 
+            universally shared uncertain experiences.</p>
+    </div>
+    <div id="submission-area">
+        <textarea id="idea-input" placeholder="Enter your experience..."></textarea>
+        <button id="submit-btn" onclick="submitIdea()">Submit Experience</button>
+    </div>
+    <div id="random-submission-area" style="display:none;">
+        <div id="random-idea"></div>
+        <button id="random-btn" onclick="retrieveRandom()">View Random Submission</button>
+    </div>
+    <script src="script.js"></script>
+    <script>
+        // Run retrieveRandom() on page load if the user has previously submitted an idea
+        window.onload = function() {
+            if(document.cookie.indexOf('submitted=true') !== -1) {
+                retrieveRandom();
+            }
+        };
+    </script>
+</body>
+</html>
